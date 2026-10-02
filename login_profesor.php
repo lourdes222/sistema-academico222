@@ -46,7 +46,7 @@ if (isset($_POST['login'])) {
         </form>
         <div class="aviso-nuevo">
             <p><strong>¿Sos docente nuevo y no estás registrado?</strong></p>
-            <p>El alta de nuevos profesores requiere validación institucional mediante contrato y secretaría. Podés solicitar el alta administrativa acá: <a href="registro_profesor.php">Ir a Alta de Profesores</a>.</p>
+            <p>El alta de nuevos profesores requiere validación institucional mediante contrato y secretaría.</a>.</p>
         </div>
     </div>
 </body>
